@@ -19,7 +19,7 @@ This project loads a trained face classification model (`fac.h5`) and detects fa
 
 ## Run
 ```bash
-python soumyashree/recognize.py
+python folder-name/recognize.py
 ```
 
 ## Customize the camera URL
