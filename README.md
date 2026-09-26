@@ -23,7 +23,7 @@ python folder-name/recognize.py
 ```
 
 ## Customize the camera URL
-Edit `URL = "http://.../shot.jpg"` inside `soumyashree/recognize.py` (or change it to use an env var if you prefer).
+Edit `URL = "http://.../shot.jpg"` inside `/recognize.py` (or change it to use an env var if you prefer).
 
 ## Notes
 - The scripts are designed for local/offline camera endpoints and use `cv2.imshow()` for display.
